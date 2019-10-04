@@ -1,0 +1,10 @@
+# Files or folder we don't want to add into a repository
+
+# For file just type the file name
+log.txt
+
+# For directory just add /
+/dir2
+
+# for file types
+# *.txt(file extension name)
